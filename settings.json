@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "xlikedonutsmp.falix.me",
-    "port": 29566,
+    "ip": "xlucksmp.aternos.me",
+    "port": 19988,
     "version": "1.21.11",
     "try-creative": false
   },

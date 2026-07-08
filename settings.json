@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "afkbotmeqdad6767",
+    "username": "likedonutsmpafk",
     "password": "ss400004",
     "type": "offline"
   },
   "server": {
-    "ip": "xlucksmp.aternos.me",
-    "port": 19988,
+    "ip": "xlikedonutsmp.falix.me",
+    "port": 29566,
     "version": "1.21.11",
     "try-creative": false
   },
